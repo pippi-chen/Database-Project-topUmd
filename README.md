@@ -7,17 +7,17 @@ How our team worked together:
 Our team met once weekly to discuss each week’s upcoming deliverables. We discussed ideas for initial proposal, mission statement, mission objectives, database design, and visualization display. Meanwhile, we kept confirming our direction with the Professor and corrected our content with his comment. Eventually, we presented our slides and expressed our findings and recommendations to the class.
 
 Data Sources:
-For Business Schools: we looked at each school’s website, which usually has most of the demographic information that we needed. Each school has the most reporting on MBA class profiles, so we mostly used this information for comparison purposes.
-Stanford University: https://www.gsb.stanford.edu/programs/mba/admission/class-profile 
-University of Pennsylvania (Wharton School): https://mba.wharton.upenn.edu/class-profile/ 
-Northwestern University (Kellogg School of Management): https://www.kellogg.northwestern.edu/programs/full-time-mba/class-profile.aspx
-University of Chicago (Booth School of Business): https://www.chicagobooth.edu/mba/full- time/admissions/class-profile
-Massachusetts Institute of Technology (Sloan School of Management): https://mitsloan.mit.edu/mba/admissions/class-2023-profile
-Harvard University: https://www.hbs.edu/mba/admissions/class-profile/Pages/default.aspx 
-University of California, Berkeley (Haas School of Business): https://mba.haas.berkeley.edu/admissions/class-profile
-Columbia University: https://academics.gsb.columbia.edu/mba/admissions/class-profile
-Yale University: https://som.yale.edu/programs/mba/admissions/class-profile
-University of Maryland: https://www.rhsmith.umd.edu/news/quick-look-full-time-mba-class- profile
+For Business Schools: we looked at each school’s website, which usually has most of the demographic information that we needed. Each school has the most reporting on MBA class profiles, so we mostly used this information for comparison purposes.  
+Stanford University: https://www.gsb.stanford.edu/programs/mba/admission/class-profile   
+University of Pennsylvania (Wharton School): https://mba.wharton.upenn.edu/class-profile/   
+Northwestern University (Kellogg School of Management): https://www.kellogg.northwestern.edu/programs/full-time-mba/class-profile.aspx  
+University of Chicago (Booth School of Business): https://www.chicagobooth.edu/mba/full- time/admissions/class-profile  
+Massachusetts Institute of Technology (Sloan School of Management): https://mitsloan.mit.edu/mba/admissions/class-2023-profile  
+Harvard University: https://www.hbs.edu/mba/admissions/class-profile/Pages/default.aspx  
+University of California, Berkeley (Haas School of Business): https://mba.haas.berkeley.edu/admissions/class-profile  
+Columbia University: https://academics.gsb.columbia.edu/mba/admissions/class-profile  
+Yale University: https://som.yale.edu/programs/mba/admissions/class-profile  
+University of Maryland: https://www.rhsmith.umd.edu/news/quick-look-full-time-mba-class- profile  
 
 For the information that we could not find on each graduate business school’s website directly, and for additional information, we used a combination of the following websites: 
 https://www.usnews.com/best-graduate-schools/top-business-schools/university-of-maryland- college-park-01104

@@ -255,4 +255,3 @@ INSERT INTO [TA03.Rate] VALUES
 	('28','Columbia University', 'Bloomberg', 9),
 	('29','Yale University', 'Bloomberg', 14),
 	('30','University of Maryland', 'Bloomberg', 26);
-	s
